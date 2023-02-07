@@ -3,8 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+Dhairya Vyas dhairya.v@scaledge.io
 # THANKS
 
     <name>
