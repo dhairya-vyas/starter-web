@@ -22,4 +22,4 @@ please fork this repo
 
 ###Copyright
 
-2023 Scaledge Copyright Notice
+2023 Scaledge Copyright Notice. All rights reserved
