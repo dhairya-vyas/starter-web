@@ -13,3 +13,4 @@ Dhairya Vyas dhairya.v@scaledge.io
 
     HTML5, CSS3
     jQuery, Modernizr
+	Git
